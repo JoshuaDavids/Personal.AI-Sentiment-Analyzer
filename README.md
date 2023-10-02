@@ -33,7 +33,7 @@ pip install ai-sentiment-analyzer
 ### 3. Usage
 
 Here is a simple example of how to use AI-Sentiment-Analyzer:
-
+```
 
 python
 from sentiment_analysis import SentimentAnalyzer
@@ -48,7 +48,7 @@ result = analyzer.analyze_sentiment(text)
 # Print the result
 print(result)
 ​
-
+```
 
 This will output the sentiment of the text, which can be either "positive", "negative", or "neutral".
 
