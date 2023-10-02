@@ -23,9 +23,9 @@ AI-Sentiment-Analyzer is a Python library that uses deep learning techniques to 
 ### 2. Installation
 
 To install AI-Sentiment-Analyzer, you can use pip:
+#### Bash
 ```
 
-bash
 pip install ai-sentiment-analyzer
 ​
 ```
@@ -33,9 +33,9 @@ pip install ai-sentiment-analyzer
 ### 3. Usage
 
 Here is a simple example of how to use AI-Sentiment-Analyzer:
+#### Python
 ```
 
-python
 from sentiment_analysis import SentimentAnalyzer
 ​
 # Create an instance of the SentimentAnalyzer class
