@@ -2,14 +2,6 @@
 
 Welcome to the AI-Sentiment-Analyzer repository! This project aims to provide a comprehensive and efficient solution for sentiment analysis in text data.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Sentiment analysis is a technique used to analyze a piece of text to understand the sentiment behind it. This can be useful in various applications, such as customer reviews, social media monitoring, and market research.
